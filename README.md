@@ -1,2 +1,2 @@
-# Daily-Ui-Challenge-Day1-
+# Daily-Ui-Challenge(Day1)
  Sign Up Page
