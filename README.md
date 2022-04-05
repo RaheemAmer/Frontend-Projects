@@ -1,2 +1,1 @@
-# (Day1)  Sign Up Page
-
+A repo where I'll uploud my projects while learning frontend
