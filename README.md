@@ -4,6 +4,8 @@ It will be divided into three main levels:
 - Easy
 - Intermediate
 - Hard
-### Some things to practise on:
-- [First-Practice](https://mastery.games/post/practice-css/)
 
+### FrontendMentor Challenges:
+Challenges | Completed | Repo
+------------ | ------------- | -------------
+ 👉 [First-Challenge](https://www.frontendmentor.io/) | ✅ First-Challenge | ⭕️ [Repo](https://github.com/RaheemAmer/RouteAcademyTasks/blob/main/Day1)
