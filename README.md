@@ -1,4 +1,4 @@
-# Frontend Mentor Challenges:
-Challenges | Completed | Repo
+# Published Projects:
+Projects | Completed | Link
 ------------ | ------------- | -------------
- 👉 [First-Challenge](https://www.frontendmentor.io/) | ✅ First-Challenge | ⭕️ [Repo](https://github.com/RaheemAmer/QR-code-Component)
+ 👉 Cv-Book | ✅ Cv-Book | ⭕️ [Website](https://raheemamer.github.io/Cv-Book/)
