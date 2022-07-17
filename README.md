@@ -7,6 +7,7 @@ Projects | Repo | Preview
 👉  9-Dots-Menu-Animation | ✅ [ 9-Dots-Menu-Animation](https://github.com/RaheemAmer/9-Dots-Menu-Animation) | ⭕️ [Website](https://raheemamer.github.io/9-Dots-Menu-Animation/)
 👉 Green-Lantern-Agency | ✅ [Green-Lantern-Agency](https://github.com/RaheemAmer/Green-Lantern-Agency) | ⭕️ [Website](https://raheemamer.github.io/Green-Lantern-Agency/)
 👉 Nabd-Blood-Bank-Website | ✖️ [Nabd-Blood-Bank-Website](https://github.com/RaheemAmer/Nabd-Blood-Bank-Website) | ⭕️ Under-Development
+👉 Palindrome-Checker| ✅ [Palindrome-Checker](https://github.com/RaheemAmer/Palindrome-Checker) | ⭕️ [Website](https://raheemamer.github.io/Palindrome-Checker/)
 
 
 
